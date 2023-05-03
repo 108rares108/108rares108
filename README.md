@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Rares
-- 👀 I’m interested in ML and much more.
+- 👀 I’m interested in Machine Learning and much more.
 - 🌱 I’m currently learning code like C++.
